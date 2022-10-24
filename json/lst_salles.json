@@ -3,282 +3,329 @@
   "TAG": "101(7)PW1a",
   "COUR": "Getting ready for the USA",
   "PROF": "Peter",
-  "SALLE": "F003"
+  "SALLE": "F003",
+  "HORAIRE": "13h10-14h40"
  },
  {
   "TAG": "102(7)CLS1a",
   "COUR": "Getting ready for the UK",
   "PROF": "Claire",
-  "SALLE": "F005"
+  "SALLE": "F005",
+  "HORAIRE": "13h10-14h40"
  },
  {
   "TAG": "103(7)CC2a",
   "COUR": "Talking chemistry",
   "PROF": "Christine",
-  "SALLE": "Point Source"
+  "SALLE": "Point Source",
+  "HORAIRE": "13h10-14h40"
  },
  {
   "TAG": "109(7)TD1a",
   "COUR": "English Workshop",
   "PROF": "Tim",
-  "SALLE": "F004"
+  "SALLE": "F004",
+  "HORAIRE": "13h10-14h40"
  },
  {
   "TAG": "106(7)MB1a",
   "COUR": "English for Business & Management",
   "PROF": "Mairi",
-  "SALLE": "E302"
+  "SALLE": "E302",
+  "HORAIRE": "13h10-14h40"
  },
  {
   "TAG": "112(7)AB1a",
   "COUR": "Awareness of cultural differences",
   "PROF": "Alicja",
-  "SALLE": "Gd Conseil"
+  "SALLE": "Gd Conseil",
+  "HORAIRE": "13h10-14h40"
  },
  {
   "TAG": "222(7)CB1a",
   "COUR": "Allemand L'allemand pour ex-débutants",
   "PROF": "Christian",
-  "SALLE": "D113"
+  "SALLE": "D113",
+  "HORAIRE": "13h10-14h40"
  },
  {
   "TAG": "300(7)MCV1a",
   "COUR": "Italien",
   "PROF": "Maria-Carmela",
-  "SALLE": "D110"
+  "SALLE": "D110",
+  "HORAIRE": "13h10-14h40"
  },
  {
   "TAG": "445(7)ST1a",
   "COUR": "Espagnol Vie professionnelle en Espagne",
   "PROF": "Socorro",
-  "SALLE": "F006"
+  "SALLE": "F006",
+  "HORAIRE": "13h10-14h40"
  },
  {
   "TAG": "444(7)NH1a",
   "COUR": "Espagnole pour l’ex debutants",
   "PROF": "Norma",
-  "SALLE": "D114"
+  "SALLE": "D114",
+  "HORAIRE": "13h10-14h40"
  },
  {
   "TAG": "440(7)LP1a",
   "COUR": "Espagnol Practica de la lengua DELE",
   "PROF": "Lourdes",
-  "SALLE": "G111"
+  "SALLE": "G111",
+  "HORAIRE": "13h10-14h40"
  },
  {
   "TAG": "449(7)EA1a",
   "COUR": "Espagnol Debatir la ciencia en español",
   "PROF": "Edgar",
-  "SALLE": "D103"
+  "SALLE": "D103",
+  "HORAIRE": "13h10-14h40"
  },
  {
   "TAG": "600(7)ND1a",
   "COUR": "Chinois",
   "PROF": "Nan",
-  "SALLE": "D102"
+  "SALLE": "D102",
+  "HORAIRE": "13h10-14h40"
  },
  {
   "TAG": "800(7)MS1a",
   "COUR": "Japonais",
   "PROF": "Michie",
-  "SALLE": "Petit Amphi"
+  "SALLE": "Petit Amphi",
+  "HORAIRE": "13h10-14h40"
  },
  {
   "TAG": "900(7)IM1a",
   "COUR": "Russe",
   "PROF": "Ivanna",
-  "SALLE": "D001"
+  "SALLE": "D001",
+  "HORAIRE": "13h10-14h40"
  },
  {
   "TAG": "113(7)PW1b",
   "COUR": "Science and the Movies",
   "PROF": "Peter",
-  "SALLE": "F003"
+  "SALLE": "F003",
+  "HORAIRE": "14h50-16h20"
  },
  {
   "TAG": "109(7)CLS4b",
   "COUR": "English Workshop",
   "PROF": "Claire",
-  "SALLE": "F005"
+  "SALLE": "F005",
+  "HORAIRE": "14h50-16h20"
  },
  {
   "TAG": "103(7)CC1b",
   "COUR": "Talking Chemistry",
   "PROF": "Christine",
-  "SALLE": "Point Source"
+  "SALLE": "Point Source",
+  "HORAIRE": "14h50-16h20"
  },
  {
   "TAG": "109(7)TD1b",
   "COUR": "English Workshop",
   "PROF": "Tim",
-  "SALLE": "F004"
+  "SALLE": "F004",
+  "HORAIRE": "14h50-16h20"
  },
  {
   "TAG": "106(7)MB2b",
   "COUR": "English for Business & Management",
   "PROF": "Mairi",
-  "SALLE": "E302"
+  "SALLE": "E302",
+  "HORAIRE": "14h50-16h20"
  },
  {
   "TAG": "110(7)AB1b",
   "COUR": "Proficency",
   "PROF": "Alicja",
-  "SALLE": "Gd Conseil"
+  "SALLE": "Gd Conseil",
+  "HORAIRE": "14h50-16h20"
  },
  {
   "TAG": "120(7)JL1b",
   "COUR": "Film Workshop",
   "PROF": "Jessica",
-  "SALLE": "Bibliothèque"
+  "SALLE": "Bibliothèque",
+  "HORAIRE": "14h50-16h20"
  },
  {
   "TAG": "111(7)JC1b",
   "COUR": "CAE",
   "PROF": "Jennifer",
-  "SALLE": "D111"
+  "SALLE": "D111",
+  "HORAIRE": "14h50-16h20"
  },
  {
   "TAG": "229(7)DC1b",
   "COUR": "Allemand Deutsches Kino",
   "PROF": "Dagmar",
-  "SALLE": "G109"
+  "SALLE": "G109",
+  "HORAIRE": "14h50-16h20"
  },
  {
   "TAG": "220(7)EB1b",
   "COUR": "Allemand Deutsch fuer Chemiker",
   "PROF": "Ebba",
-  "SALLE": "D113"
+  "SALLE": "D113",
+  "HORAIRE": "14h50-16h20"
  },
  {
   "TAG": "300(7)MCV1b",
   "COUR": "Italien",
   "PROF": "Maria-Carmela",
-  "SALLE": "D110"
+  "SALLE": "D110",
+  "HORAIRE": "14h50-16h20"
  },
  {
   "TAG": "443(7)ST1b",
   "COUR": "Espagnol Civilisation latino-americaine",
   "PROF": "Socorro",
-  "SALLE": "F006"
+  "SALLE": "F006",
+  "HORAIRE": "14h50-16h20"
  },
  {
   "TAG": "442(7)NH1b",
   "COUR": "Espagnol Réunions espagnoles à but professionnel",
   "PROF": "Norma",
-  "SALLE": "D114"
+  "SALLE": "D114",
+  "HORAIRE": "14h50-16h20"
  },
  {
   "TAG": "441(7)LP1b",
   "COUR": "Cine",
   "PROF": "Lourdes",
-  "SALLE": "G111"
+  "SALLE": "G111",
+  "HORAIRE": "14h50-16h20"
  },
  {
   "TAG": "446(7)EA1b",
   "COUR": "Espagnol l Vie professionnelle en Espagnol (pays de habla hispana)",
   "PROF": "Edgar",
-  "SALLE": "D103"
+  "SALLE": "D103",
+  "HORAIRE": "14h50-16h20"
  },
  {
   "TAG": "600(7)ND2b",
   "COUR": "Chinois",
   "PROF": "Nan",
-  "SALLE": "D102"
+  "SALLE": "D102",
+  "HORAIRE": "14h50-16h20"
  },
  {
   "TAG": "802(7)MS1b",
   "COUR": "Japonais",
   "PROF": "Michie",
-  "SALLE": "Petit Amphi"
+  "SALLE": "Petit Amphi",
+  "HORAIRE": "14h50-16h20"
  },
  {
   "TAG": "900(7)IM2b",
   "COUR": "Russe",
   "PROF": "Ivanna",
-  "SALLE": "D001"
+  "SALLE": "D001",
+  "HORAIRE": "14h50-16h20"
  },
  {
   "TAG": "113(7)PW2c",
   "COUR": "113 Science and the Movies",
   "PROF": "Peter",
-  "SALLE": "F003"
+  "SALLE": "F003",
+  "HORAIRE": "16h30-18h00"
  },
  {
   "TAG": "105(7)CC1c",
   "COUR": "105 English through Singing",
   "PROF": "Christine",
-  "SALLE": "Point Source"
+  "SALLE": "Point Source",
+  "HORAIRE": "16h30-18h00"
  },
  {
   "TAG": "109(7)TD3c",
   "COUR": "109 English Workshop",
   "PROF": "Tim",
-  "SALLE": "F004"
+  "SALLE": "F004",
+  "HORAIRE": "16h30-18h00"
  },
  {
   "TAG": "122(7)MB1c",
   "COUR": "122 English through Creating Art",
   "PROF": "Mairi",
-  "SALLE": "E302"
+  "SALLE": "E302",
+  "HORAIRE": "16h30-18h00"
  },
  {
   "TAG": "115(7)AB1c",
   "COUR": "115 Psychological Mechanisms of Behaviour",
   "PROF": "Alicja",
-  "SALLE": "Gd Conseil"
+  "SALLE": "Gd Conseil",
+  "HORAIRE": "16h30-18h00"
  },
  {
   "TAG": "113(7)JL3c",
   "COUR": "113 Science and the Movies",
   "PROF": "Jessica",
-  "SALLE": "F005"
+  "SALLE": "F005",
+  "HORAIRE": "16h30-18h00"
  },
  {
   "TAG": "117(7)JC1c",
   "COUR": "117 Talking Technology",
   "PROF": "Jennifer",
-  "SALLE": "Mezzanine"
+  "SALLE": "Mezzanine",
+  "HORAIRE": "16h30-18h00"
  },
  {
   "TAG": "224(7)DC1c",
   "COUR": "224 Allemand Comment s'exprimer en allemand dans l'entreprise",
   "PROF": "Dagmar",
-  "SALLE": "G109"
+  "SALLE": "G109",
+  "HORAIRE": "16h30-18h00"
  },
  {
   "TAG": "250(7)EB1c",
   "COUR": "250 Allemand Musik in und aus Deutschland",
   "PROF": "Ebba",
-  "SALLE": "D113"
+  "SALLE": "D113",
+  "HORAIRE": "16h30-18h00"
  },
  {
   "TAG": "443(7)ST2c",
   "COUR": "443 Espagnol Civilisation latino-americaine",
   "PROF": "Socorro",
-  "SALLE": "F006"
+  "SALLE": "F006",
+  "HORAIRE": "16h30-18h00"
  },
  {
   "TAG": "442(7)NH2c",
   "COUR": "442 Espagnol Réunions espagnoles à but professionnel",
   "PROF": "Norma",
-  "SALLE": "D114"
+  "SALLE": "D114",
+  "HORAIRE": "16h30-18h00"
  },
  {
   "TAG": "441(7)LP2c",
   "COUR": "441 Cine",
   "PROF": "Lourdes",
-  "SALLE": "G111"
+  "SALLE": "G111",
+  "HORAIRE": "16h30-18h00"
  },
  {
   "TAG": "600(7)ND3c",
   "COUR": "600 Chinois",
   "PROF": "Nan",
-  "SALLE": "D102"
+  "SALLE": "D102",
+  "HORAIRE": "16h30-18h00"
  },
  {
   "TAG": "801(7)MS1c",
   "COUR": "800 Japonais",
   "PROF": "Michie",
-  "SALLE": "Petit Amphi"
+  "SALLE": "Petit Amphi",
+  "HORAIRE": "16h30-18h00"
  }
 ]

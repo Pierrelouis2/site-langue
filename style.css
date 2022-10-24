@@ -52,7 +52,7 @@ input {
     
 }
 
-button {
+#button_submit {
     position: relative;
     float: right;
     border: 0;
@@ -67,4 +67,17 @@ button {
    
 }  
 
-;
+#display{
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+    background-color: #2e2e2e;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+    border: 1px solid white;
+}
