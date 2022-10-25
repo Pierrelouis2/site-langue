@@ -5,7 +5,7 @@ lst = file1.readlines()
 valren =[]
 cpt = 0
 lst =[]
-for i in lst:
+for i in lst: 
     
     lst.append(i)
     cpt += 1 
